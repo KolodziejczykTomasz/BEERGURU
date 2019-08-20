@@ -1,2 +1,0 @@
-# BEERGURU
-Created with CodeSandbox
